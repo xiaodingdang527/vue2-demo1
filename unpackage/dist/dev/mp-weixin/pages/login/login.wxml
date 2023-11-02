@@ -1,0 +1,1 @@
+<view class="login-page data-v-b237504c"><common-header vue-id="35a7246c-1" title="{{title}}" class="data-v-b237504c" bind:__l="__l"></common-header><view class="main _main data-v-b237504c"></view><view class="_footer data-v-b237504c"></view></view>

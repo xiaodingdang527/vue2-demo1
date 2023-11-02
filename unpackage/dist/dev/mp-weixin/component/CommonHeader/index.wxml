@@ -1,0 +1,1 @@
+<view class="login-page data-v-d62ae24a"><view class="header _header data-v-d62ae24a"><image class="back data-v-d62ae24a" src="/static/logo.png"></image><view class="title data-v-d62ae24a">{{title}}</view></view><view class="main _main data-v-d62ae24a"></view><view class="footer _footer data-v-d62ae24a"></view></view>
